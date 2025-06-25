@@ -723,9 +723,10 @@
         "item_Hijqni": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-009-BITTY02-LIL01_BITTY02-AQU01_BITTY02-LMD01_TOB01-WHT01_OB02-LMD01_0161_V1.jpg",
             "image_rotation_degrees": 0,
             "subheading": "",
-            "title": "Image with text",
+            "title": "Outing with the kids",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_url": "",
             "button_text": ""
