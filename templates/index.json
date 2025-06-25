@@ -108,21 +108,6 @@
         "logo_item_border": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "SUMMER SALE",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 7,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -638,7 +623,6 @@
   "order": [
     "slideshow",
     "logo_list_DEYBqE",
-    "scrolling-text",
     "featured-collection",
     "image-with-text-overlay",
     "media-grid",
