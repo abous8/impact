@@ -114,9 +114,9 @@
         "collection": "best-sellers-summer-2025",
         "products": [],
         "full_width": true,
-        "stack_products": false,
+        "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 6,
+        "products_count": 4,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
@@ -131,46 +131,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "media-grid": {
@@ -624,7 +584,6 @@
     "slideshow",
     "logo_list_DEYBqE",
     "featured-collection",
-    "image-with-text-overlay",
     "media-grid",
     "before-after-image",
     "press",
