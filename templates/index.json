@@ -860,6 +860,7 @@
         "logo_XFPPGe": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -867,6 +868,7 @@
         "logo_xKfMwB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan__revista__logotipo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -874,6 +876,7 @@
         "logo_r3pk7A": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -881,6 +884,7 @@
         "logo_zVhkfh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_revista_-_logo.png",
             "logo_width": 120,
             "link": ""
           }
