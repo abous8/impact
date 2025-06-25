@@ -301,12 +301,36 @@
             "title": "How do I clean the bag?",
             "content": "<p>Simply rinse it with water and wipe it down with a cloth. For stubborn stains, use a bit of soap — no machine washing needed.</p>"
           }
+        },
+        "item_G4RteQ": {
+          "type": "item",
+          "settings": {
+            "title": "How much can it hold?",
+            "content": "<p>Our bags are super roomy! They can easily hold towels, water bottles, snacks, toys, sunscreen, and more — ideal for moms, travelers, or anyone on the go.</p>"
+          }
+        },
+        "item_HQGx7R": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_34EX4Y": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "item_G3Cbg4",
         "item_X4H6tQ",
-        "item_3AkH8b"
+        "item_3AkH8b",
+        "item_G4RteQ",
+        "item_HQGx7R",
+        "item_34EX4Y"
       ],
       "name": "FAQ",
       "settings": {
