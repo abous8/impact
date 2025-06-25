@@ -711,10 +711,11 @@
         "item_UfPect": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Bogg_bag_with_groceries.webp",
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Quick groceries",
+            "content": "",
             "button_url": "",
             "button_text": ""
           }
