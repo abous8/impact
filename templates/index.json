@@ -410,6 +410,32 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "hot_spots_zCtenz": {
+      "type": "hot-spots",
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/telechargement_3d1c0414-5612-4afc-8a87-e63d1fa03db8.png",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
     }
   },
   "order": [
@@ -421,6 +447,7 @@
     "media_with_text_kX673B",
     "featured-collection",
     "faq_kL6yKY",
-    "contact_EWq7Vi"
+    "contact_EWq7Vi",
+    "hot_spots_zCtenz"
   ]
 }
