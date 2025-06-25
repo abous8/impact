@@ -718,9 +718,9 @@
         "item_RTidzq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-040_OB02_CSB01_BIT02_PLM02_BIT02_FLI01_0028_V1_1c539b93-d35e-4172-90bf-d23a30f54b3d.webp",
+            "image": "shopify://shop_images/telechargement_2.jpg",
             "icon": "none",
-            "icon_width": 48,
+            "icon_width": 56,
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
