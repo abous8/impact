@@ -113,7 +113,8 @@
       "name": "Hot spots",
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/telechargement_3d1c0414-5612-4afc-8a87-e63d1fa03db8.png",
+        "image": "shopify://shop_images/telechargement_1.png",
+        "mobile_image": "shopify://shop_images/telechargement_1_cf2a3b72-aff4-46c7-9d26-8caccb140135.png",
         "title": "",
         "content": "",
         "button_text": "",
