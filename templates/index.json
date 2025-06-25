@@ -281,18 +281,18 @@
     "faq_kL6yKY": {
       "type": "faq",
       "blocks": {
+        "item_G3Cbg4": {
+          "type": "item",
+          "settings": {
+            "title": "What is this bag made of?",
+            "content": "<p>Our bags are made from high-quality EVA foam — the same type of material used in Crocs. It’s lightweight, waterproof, flexible, and easy to clean.</p>"
+          }
+        },
         "item_X4H6tQ": {
           "type": "item",
           "settings": {
             "title": "Is the bag waterproof?",
             "content": "<p>Yes! The bag is fully waterproof, making it perfect for beach days, poolside trips, and unpredictable summer weather.</p>"
-          }
-        },
-        "item_G3Cbg4": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "item_3AkH8b": {
@@ -304,8 +304,8 @@
         }
       },
       "block_order": [
-        "item_X4H6tQ",
         "item_G3Cbg4",
+        "item_X4H6tQ",
         "item_3AkH8b"
       ],
       "name": "FAQ",
