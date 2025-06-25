@@ -104,7 +104,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#fff",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
@@ -316,7 +316,7 @@
         "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
         "support_hours": "",
-        "answer_time": "Average answer time: 24h",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
