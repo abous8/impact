@@ -18,7 +18,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
-            "mobile_icon_width": 64,
+            "mobile_icon_width": 80,
             "icon_width": 56,
             "icon_background_type": "none",
             "icon_background": "",
@@ -31,7 +31,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 80,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
@@ -44,7 +44,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-lock",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 80,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
@@ -63,7 +63,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
-        "heading_tag": "h2",
+        "heading_tag": "h4",
         "text_alignment": "center",
         "icon_spacing": "small",
         "background": "",
