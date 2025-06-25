@@ -691,6 +691,59 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "images_with_text_scrolling_XKq9rh": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_rGFRn9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/telechargement_1.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_UeGFbh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/496438763_18355477762151393_4439566685118281789_n.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_RTidzq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-040_OB02_CSB01_BIT02_PLM02_BIT02_FLI01_0028_V1_1c539b93-d35e-4172-90bf-d23a30f54b3d.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_rGFRn9",
+        "item_UeGFbh",
+        "item_RTidzq"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -706,6 +759,7 @@
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq"
+    "faq",
+    "images_with_text_scrolling_XKq9rh"
   ]
 }
