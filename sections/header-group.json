@@ -20,10 +20,18 @@
             "text": "SUMMER SALE",
             "url": ""
           }
+        },
+        "message_bifXkL": {
+          "type": "message",
+          "settings": {
+            "text": "- 30% off",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_bifXkL"
       ],
       "settings": {
         "enable_sticky": false,
