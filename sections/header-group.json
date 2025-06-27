@@ -27,11 +27,19 @@
             "text": "- 30% off",
             "url": ""
           }
+        },
+        "message_YWf8BM": {
+          "type": "message",
+          "settings": {
+            "text": "FREE DELIVERY",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_bifXkL"
+        "message_bifXkL",
+        "message_YWf8BM"
       ],
       "settings": {
         "enable_sticky": false,
