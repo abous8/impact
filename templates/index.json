@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/new-arrivals-desktop_1c9ea3ce-4dc6-4c18-9564-76a4a9adfaf8.jpg",
+            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-009-BITTY02-LIL01_BITTY02-AQU01_BITTY02-LMD01_TOB01-WHT01_OB02-LMD01_0161_V1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -111,7 +111,7 @@
     "hot_spots_zCtenz": {
       "type": "hot-spots",
       "blocks": {
-        "item_tGDJwi": {
+        "item_hKFjeq": {
           "type": "item",
           "settings": {
             "horizontal_position": 30,
@@ -125,7 +125,7 @@
         }
       },
       "block_order": [
-        "item_tGDJwi"
+        "item_hKFjeq"
       ],
       "name": "Hot spots",
       "settings": {
@@ -133,7 +133,7 @@
         "title": "",
         "content": "",
         "button_text": "",
-        "button_url": "https://cdn.shopify.com/s/files/1/0948/1306/1455/files/At_the_Beach_No_more_soggy_stuff_or_sand_disasters_rinse_it_off_in_seconds._Out_with_the_Kids_Snacks_bottles_diapers_toys_it_fits_everything_and_you_ll_find_it_instantly._Quick_Grocer.png?v=1751227930",
+        "button_url": "",
         "desktop_text_position": "place-self-start text-start",
         "image_background": "",
         "image_background_gradient": "",
