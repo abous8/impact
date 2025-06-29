@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Safe Shipping",
-            "content": "<p>Every order is securely packed and tracked — from our door to yours.</p>"
+            "title": "Expédition sécurisée",
+            "content": "<p>Chaque commande est soigneusement emballée et suivie — de notre porte à la vôtre.</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer support Average answer time: 24h",
-            "content": "<p> Monday to Friday: 8am-8:30pm.</p>"
+            "title": "Service client — Délai moyen de réponse : 24H",
+            "content": "<p> Du lundi au vendredi : 8h00 – 20h30.</p>"
           }
         },
         "payment": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>We never store your payment info. Every transaction is safe & protected.</p>"
+            "title": "Paiement sécurisé",
+            "content": "<p>Nous ne stockons jamais vos informations de paiement. Chaque transaction est sécurisée et protégée.</p>"
           }
         }
       },
@@ -79,7 +79,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Inscrivez-vous pour recevoir nos nouveautés et offres personnalisées.",
             "content": ""
           }
         },

@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "SUMMER SALE",
+            "text": "PROMOTIONS D'ÉTÉ",
             "url": ""
           }
         },
         "message_bifXkL": {
           "type": "message",
           "settings": {
-            "text": "- 30% OFF",
+            "text": "– 30 % DE RÉDUCTION",
             "url": ""
           }
         },
         "message_YWf8BM": {
           "type": "message",
           "settings": {
-            "text": "FREE DELIVERY",
+            "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         }
@@ -43,12 +43,12 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#ffe400"
       }
     },
     "header": {
