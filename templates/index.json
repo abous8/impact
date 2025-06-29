@@ -110,23 +110,6 @@
     },
     "hot_spots_zCtenz": {
       "type": "hot-spots",
-      "blocks": {
-        "item_hKFjeq": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 30,
-            "vertical_position": 30,
-            "horizontal_position_mobile": 30,
-            "vertical_position_mobile": 30,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_hKFjeq"
-      ],
       "name": "Hot spots",
       "settings": {
         "full_width": true,
