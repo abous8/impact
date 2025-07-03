@@ -131,10 +131,83 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "testimonials_xXLnHd": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_3qQWeW": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Marie T. – 28 ans",
+            "title": "Avis 1",
+            "content": "<p>La couleur est juste magnifique, encore plus belle en vrai ! Je l’ai emmené à la plage, au parc, même pour faire mes courses. Il tient debout, se nettoie super facilement et j’adore les petites pochettes à l’intérieur.</p>"
+          }
+        },
+        "testimonial_eCaHax": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_XfcMqE": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_HPidcQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_3qQWeW",
+        "testimonial_eCaHax",
+        "testimonial_XfcMqE",
+        "testimonial_HPidcQ"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Les clients adorent Bahiva",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "testimonials_xXLnHd"
   ]
 }
