@@ -110,6 +110,59 @@
         "input_text_color": ""
       }
     },
+    "images_with_text_scrolling_WRQg7p": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_HYgteW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-03_at_19.33.23.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "L’accessoire parfait de votre été",
+            "content": "<p>Stylé, rigide, lavable et ultra pratique. Il contient tout, ne craint rien… et attire tous les regards.</p>"
+          }
+        },
+        "item_qyNBra": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-03_at_19.34.26.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Le sac qui aime l’eau autant que vous",
+            "content": "<p>Flotte, résiste, brille au soleil — impossible de faire plus pratique (et plus stylé) pour vos journées au bord de l’eau.</p>"
+          }
+        },
+        "item_XjhkxY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-03_at_19.34.13.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Le sac qui ne craint rien",
+            "content": "<p>Léger, solide et ultra facile à nettoyer. Même les petits accidents ne lui font pas peur.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_HYgteW",
+        "item_qyNBra",
+        "item_XjhkxY"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -207,6 +260,7 @@
   },
   "order": [
     "main",
+    "images_with_text_scrolling_WRQg7p",
     "related-products",
     "testimonials_xXLnHd"
   ]
