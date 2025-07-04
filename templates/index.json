@@ -71,6 +71,22 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "scrolling_text_BDUeHG": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion d'été",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": "radial-gradient(rgba(255, 183, 74, 1), rgba(255, 204, 75, 1) 100%)"
+      }
+    },
     "logo_list_DEYBqE": {
       "type": "logo-list",
       "blocks": {
@@ -462,6 +478,7 @@
   },
   "order": [
     "slideshow",
+    "scrolling_text_BDUeHG",
     "logo_list_DEYBqE",
     "hot_spots_zCtenz",
     "impact-text",
