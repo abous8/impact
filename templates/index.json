@@ -32,10 +32,32 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_ffCfnV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/OB01_MSH01_I_a167ba09-2b88-4757-97e5-73604ac24f93.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Tendance et Pratique",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "slide-1"
+        "slide-1",
+        "image_ffCfnV"
       ],
       "settings": {
         "full_width": true,
