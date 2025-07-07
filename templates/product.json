@@ -263,12 +263,69 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "multiple_images_with_text_dCPJ8N": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_qpAwL8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-005-OB01-RAS01_SAB01-WHT01_CMB01-WHT01_BEVY01-WTM01_0093_V1.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Pique-nique ou parc",
+            "content": "<p>Facile à poser au sol, facile à nettoyer, tout le monde vous envie.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_VHNNPx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Bogg_bag_with_groceries.webp",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Courses rapides",
+            "content": "<p>Assez rigide pour tenir debout dans la voiture, assez grand pour tout emporter.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_zjfT4x": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Image with text",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_qpAwL8",
+        "item_VHNNPx",
+        "item_zjfT4x"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "images_with_text_scrolling_WRQg7p",
     "related-products",
-    "testimonials_xXLnHd"
+    "testimonials_xXLnHd",
+    "multiple_images_with_text_dCPJ8N"
   ]
 }
