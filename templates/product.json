@@ -373,6 +373,41 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "media_with_text_4Q9nYJ": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_4pyhAA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-040_OB02_CSB01_BIT02_PLM02_BIT02_FLI01_0028_V1_1c539b93-d35e-4172-90bf-d23a30f54b3d.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "✨Ce n’est pas juste un sac — c’est votre complice de l’été.✨",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_4pyhAA"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
@@ -381,6 +416,7 @@
     "related-products",
     "testimonials_xXLnHd",
     "multiple_images_with_text_dCPJ8N",
-    "images_with_text_scrolling_mjD9cw"
+    "images_with_text_scrolling_mjD9cw",
+    "media_with_text_4Q9nYJ"
   ]
 }
