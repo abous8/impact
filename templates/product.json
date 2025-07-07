@@ -294,6 +294,7 @@
         "item_zjfT4x": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-009-BITTY02-LIL01_BITTY02-AQU01_BITTY02-LMD01_TOB01-WHT01_OB02-LMD01_0161_V1.jpg",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Sortie avec les enfants",
@@ -319,6 +320,47 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "images_with_text_scrolling_mjD9cw": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_VAw8fc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/telechargement_1.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Suzanne G.",
+            "content": "<p>J’adore ce cabas ! Je peux le rincer facilement s’il y a du sable, et il est assez léger pour m’accompagner en road trip, à la plage, en camping, etc...</p>"
+          }
+        },
+        "item_Q33eEf": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_VAw8fc",
+        "item_Q33eEf"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -326,6 +368,7 @@
     "images_with_text_scrolling_WRQg7p",
     "related-products",
     "testimonials_xXLnHd",
-    "multiple_images_with_text_dCPJ8N"
+    "multiple_images_with_text_dCPJ8N",
+    "images_with_text_scrolling_mjD9cw"
   ]
 }
