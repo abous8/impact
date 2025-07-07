@@ -343,11 +343,22 @@
             "title": "Julie K.",
             "content": "<p>C’est un sac façon Crocs trop mignon.. 💯 J’ai pris la taille médium et il est vraiment grand.</p>"
           }
+        },
+        "item_AWkmDf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/496438763_18355477762151393_4439566685118281789_n.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Margareth J.",
+            "content": "<p>La qualité était bien meilleure que ce à quoi je m’attendais ! Ça vaut largement son prix !</p>"
+          }
         }
       },
       "block_order": [
         "item_VAw8fc",
-        "item_Q33eEf"
+        "item_Q33eEf",
+        "item_AWkmDf"
       ],
       "name": "Images and text scrolling",
       "settings": {
