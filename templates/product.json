@@ -170,28 +170,6 @@
         "heading_gradient": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "À voir également",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "multiple_images_with_text_dCPJ8N": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -408,15 +386,37 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "À voir également",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "images_with_text_scrolling_WRQg7p",
-    "related-products",
     "multiple_images_with_text_dCPJ8N",
     "media_with_text_4Q9nYJ",
     "images_with_text_scrolling_mjD9cw",
-    "testimonials_xXLnHd"
+    "testimonials_xXLnHd",
+    "related-products"
   ]
 }
