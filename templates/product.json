@@ -337,10 +337,11 @@
         "item_Q33eEf": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/telechargement_2.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Julie K.",
+            "content": "<p>C’est un sac façon Crocs trop mignon.. 💯 J’ai pris la taille médium et il est vraiment grand.</p>"
           }
         }
       },
