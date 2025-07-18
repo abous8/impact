@@ -423,6 +423,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "best-sellers-summer-2025",
         "products": [],
