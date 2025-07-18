@@ -352,6 +352,75 @@
         "spacing": "small"
       }
     },
+    "collection_list_MTWfKY": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_AKittE": {
+          "type": "collection",
+          "settings": {
+            "collection": "essentiel-👉-28-x-11-x-21-cm-parfait-pour-les-indispensables",
+            "subheading": "",
+            "title": "",
+            "url": "shopify://collections/essentiel-👉-28-x-11-x-21-cm-parfait-pour-les-indispensables",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_XxVHPC": {
+          "type": "collection",
+          "settings": {
+            "collection": "depart-express-👉-36-x-13-x-30-cm-ideal-pour-une-journee-plage",
+            "subheading": "",
+            "title": "",
+            "url": "shopify://collections/depart-express-👉-36-x-13-x-30-cm-ideal-pour-une-journee-plage",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_DXUf8L": {
+          "type": "collection",
+          "settings": {
+            "collection": "aventure-👉-46-x-24-x-32-cm-pour-tout-emporter",
+            "subheading": "",
+            "title": "",
+            "url": "shopify://collections/aventure-👉-46-x-24-x-32-cm-pour-tout-emporter",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_AKittE",
+        "collection_XxVHPC",
+        "collection_DXUf8L"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Retrouvez l'ensemble de nos tailles ci-dessous :",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -485,6 +554,7 @@
     "images_with_text_scrolling_XKq9rh",
     "multiple_images_with_text_pU734f",
     "media_with_text_kX673B",
+    "collection_list_MTWfKY",
     "featured-collection",
     "faq_kL6yKY",
     "contact_EWq7Vi"
