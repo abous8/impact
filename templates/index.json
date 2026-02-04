@@ -123,8 +123,8 @@
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
+        "stack_on_mobile": true,
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "Le double menton vous fait paraître plus agée & plus ronde...",
