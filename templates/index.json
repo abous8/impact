@@ -144,6 +144,8 @@
       "name": "Hot spots",
       "settings": {
         "full_width": true,
+        "image": "shopify://shop_images/Dr._Jessica_Harper_Dermatologist_in_New_York.png",
+        "mobile_image": "shopify://shop_images/Dr._Jessica_Harper_Dermatologist_in_New_York.png",
         "title": "",
         "content": "",
         "button_text": "",
