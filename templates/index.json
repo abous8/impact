@@ -255,6 +255,68 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "impact_text_R8zD3E": {
+      "type": "impact-text",
+      "blocks": {
+        "item_3yYdBA": {
+          "type": "item",
+          "settings": {
+            "title": "96%",
+            "subheading": "Constatent des résultats visibles après la première utilisation",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_pwkbTM": {
+          "type": "item",
+          "settings": {
+            "title": "92%",
+            "subheading": "Rapportent une peau raffermie et liftée sur le long terme",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_ePi8zg": {
+          "type": "item",
+          "settings": {
+            "title": "90%",
+            "subheading": "Remarquent une réduction significative de leur double menton après 21 jours",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_3yYdBA",
+        "item_pwkbTM",
+        "item_ePi8zg"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -262,6 +324,7 @@
     "featured_product_Nyiiwn",
     "hot_spots_QDUMEz",
     "multi_column_9bX6YH",
-    "multiple_images_with_text_hQjgJJ"
+    "multiple_images_with_text_hQjgJJ",
+    "impact_text_R8zD3E"
   ]
 }
