@@ -30,7 +30,7 @@
             "background_gradient": "",
             "text_color": "#1a1a1a",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#00a341",
             "button_text_color": ""
           }
         }
