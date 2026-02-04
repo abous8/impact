@@ -133,10 +133,71 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "testimonials_Pb87yt": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_KenAzc": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "Giulia, 34 anni",
+            "content": "<p>Dopo solo 10 giorni il mio profilo è molto più definito. Non pensavo funzionasse così in fretta, sono super soddisfatta.</p>"
+          }
+        },
+        "testimonial_yPqGJb": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_A4rzkY": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_KenAzc",
+        "testimonial_yPqGJb",
+        "testimonial_A4rzkY"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonianze",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "testimonials_Pb87yt"
   ]
 }
