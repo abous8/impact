@@ -112,78 +112,6 @@
         "input_text_color": ""
       }
     },
-    "testimonials_xXLnHd": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_3qQWeW": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Marie T. – 28 ans",
-            "title": "Mon indispensable plage 🌊",
-            "content": "<p>La couleur est juste magnifique, encore plus belle en vrai ! Je l’ai emmené à la plage, au parc, même pour faire mes courses. Il tient debout, se nettoie super facilement et j’adore les petites pochettes à l’intérieur.</p>"
-          }
-        },
-        "testimonial_eCaHax": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sofia L. – 23 ans",
-            "title": "Trop frais pour l’été 💚",
-            "content": "<p>Hyper pratique ! J’ai mis mes affaires et celles de ma petite sœur, et il restait encore de la place. En plus, le sac a vraiment du style — je le prends partout avec moi cet été.</p>"
-          }
-        },
-        "testimonial_XfcMqE": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Léa R. – 32 ans",
-            "title": "Ultra pratique avec les enfants 👶",
-            "content": "<p>Très bon achat. Robuste, léger et super utile pour les sorties en famille. Petit plus : le sac ne bascule pas, même dans le sable.</p>"
-          }
-        },
-        "testimonial_HPidcQ": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Inès M. – 25 ans",
-            "title": "Adopté direct pour l’été ☀️",
-            "content": "<p>J’avais peur que ce soit juste un ‘joli sac’ mais franchement, il est ultra solide. Je mets serviette, crème, bouquin, bouteille et tout rentre sans souci. Je recommande à 100 %.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_3qQWeW",
-        "testimonial_eCaHax",
-        "testimonial_XfcMqE",
-        "testimonial_HPidcQ"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Les clients adorent Bahiva",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -209,7 +137,6 @@
   },
   "order": [
     "main",
-    "testimonials_xXLnHd",
     "related-products"
   ]
 }
