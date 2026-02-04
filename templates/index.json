@@ -44,6 +44,63 @@
         "spacing": "small"
       }
     },
+    "multiple_images_with_text_hQjgJJ": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_V4nhwK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_40_02.png",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Clienti reali Risultati reali",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_ffd8mD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_43_48.png",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Clienti reali Risultati reali",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_iFY9qC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_47_54.png",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Clienti reali Risultati reali",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_V4nhwK",
+        "item_ffd8mD",
+        "item_iFY9qC"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "featured_product_Nyiiwn": {
       "type": "featured-product",
       "blocks": {
@@ -224,63 +281,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "multiple_images_with_text_hQjgJJ": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_V4nhwK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_40_02.png",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Clienti reali Risultati reali",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_ffd8mD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_43_48.png",
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Clienti reali Risultati reali",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_iFY9qC": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_47_54.png",
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Clienti reali Risultati reali",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_V4nhwK",
-        "item_ffd8mD",
-        "item_iFY9qC"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "impact_text_R8zD3E": {
@@ -469,12 +469,12 @@
   },
   "order": [
     "media_with_text_FUAFp8",
+    "multiple_images_with_text_hQjgJJ",
+    "multi_column_9bX6YH",
+    "impact_text_R8zD3E",
     "featured_product_Nyiiwn",
     "hot_spots_QDUMEz",
     "hot_spots_CehChk",
-    "multi_column_9bX6YH",
-    "multiple_images_with_text_hQjgJJ",
-    "impact_text_R8zD3E",
     "video_G9966V",
     "text_with_icons_hWx4ix",
     "before_after_image_jaAUQT"
