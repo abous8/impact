@@ -137,6 +137,28 @@
     "testimonials_Pb87yt": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_zTkfaU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "Martina, 29 anni",
+            "content": "<p>L’effetto tensore si vede subito! Già dopo la prima settimana il viso sembra più scolpito.</p>"
+          }
+        },
+        "testimonial_W9PzHm": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "Valentina, 42 anni",
+            "content": "<p>All’inizio ero scettica… ma ora non posso più farne a meno. Il mio viso sembra più giovane e fresco.</p>"
+          }
+        },
         "testimonial_KenAzc": {
           "type": "testimonial",
           "settings": {
@@ -164,14 +186,16 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "",
+            "title": "Elena, 56 anni",
+            "content": "<p>La pelle è più tonica e compatta, effetto lifting naturale senza trattamenti costosi. La adoro.</p>"
           }
         }
       },
       "block_order": [
+        "testimonial_zTkfaU",
+        "testimonial_W9PzHm",
         "testimonial_KenAzc",
         "testimonial_yPqGJb",
         "testimonial_A4rzkY"
