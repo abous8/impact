@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/042c62a3-1dd0-4641-8abe-f032ebe733f3_1.png",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
@@ -44,63 +44,110 @@
         "spacing": "small"
       }
     },
-    "multiple_images_with_text_pU734f": {
-      "type": "multiple-images-with-text",
+    "featured_product_Nyiiwn": {
+      "type": "featured-product",
       "blocks": {
-        "item_bAqH8y": {
-          "type": "item",
+        "vendor_ybwRaf": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_TNcVRJ": {
+          "type": "title",
           "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Pique-nique ou parc",
-            "content": "<p>Facile à poser au sol, facile à nettoyer, tout le monde vous envie.</p>",
-            "button_url": "",
-            "button_text": ""
+            "heading_tag": "h2"
           }
         },
-        "item_UfPect": {
-          "type": "item",
+        "badges_dfa6nN": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_8QmX8q": {
+          "type": "price",
           "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Courses rapides",
-            "content": "<p>Assez rigide pour tenir debout dans la voiture, assez grand pour tout emporter.</p>",
-            "button_url": "",
-            "button_text": ""
+            "show_taxes_notice": false
           }
         },
-        "item_Hijqni": {
-          "type": "item",
+        "rating_cgNHAN": {
+          "type": "rating",
           "settings": {
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Sortie avec les enfants",
-            "content": "<p>Il contient TOUT, et vous retrouvez tout en un clin d’œil.</p>",
-            "button_url": "",
-            "button_text": ""
+            "show_empty": false
           }
+        },
+        "separator_8jPRRY": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_bbcXRC": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_p3HtrV": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_r98dtA": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_eig9Lx": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_cqUcQ7": {
+          "type": "pickup_availability",
+          "settings": {}
         }
       },
       "block_order": [
-        "item_bAqH8y",
-        "item_UfPect",
-        "item_Hijqni"
+        "vendor_ybwRaf",
+        "title_TNcVRJ",
+        "badges_dfa6nN",
+        "price_8QmX8q",
+        "rating_cgNHAN",
+        "separator_8jPRRY",
+        "description_bbcXRC",
+        "variant_picker_p3HtrV",
+        "quantity_selector_r98dtA",
+        "buy_buttons_eig9Lx",
+        "pickup_availability_cqUcQ7"
       ],
-      "name": "Multiple images with text",
+      "name": "Featured product",
       "settings": {
         "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
+        "product": "offre-masque-chinology-14-90",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     }
   },
   "order": [
     "media_with_text_FUAFp8",
-    "multiple_images_with_text_pU734f"
+    "featured_product_Nyiiwn"
   ]
 }
