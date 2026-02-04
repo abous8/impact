@@ -318,33 +318,6 @@
         "hot_spot_content_blur_radius": 3
       }
     },
-    "hot_spots_CehChk": {
-      "type": "hot-spots",
-      "name": "Hot spots",
-      "settings": {
-        "full_width": true,
-        "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_18_02_12.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_18_02_12.png",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
     "video_G9966V": {
       "type": "video",
       "blocks": {
@@ -474,7 +447,6 @@
     "impact_text_R8zD3E",
     "featured_product_Nyiiwn",
     "hot_spots_QDUMEz",
-    "hot_spots_CehChk",
     "video_G9966V",
     "text_with_icons_hWx4ix",
     "before_after_image_jaAUQT"
