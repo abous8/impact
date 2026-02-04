@@ -465,6 +465,59 @@
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
+    },
+    "faq_YE6C4K": {
+      "type": "faq",
+      "blocks": {
+        "item_wp4dqm": {
+          "type": "item",
+          "settings": {
+            "title": "Are Chinology™ masks compatiblewith all skin types?",
+            "content": "<p>The medical silicone<strong>automatically adapts to your skin</strong>hence Chinology™ masks are compatible for all women and skin types.<br/><br/>If you want to get the best results,<strong>we recommend applying it twice a week</strong>to get even more visible results!</p>"
+          }
+        },
+        "item_dAUypR": {
+          "type": "item",
+          "settings": {
+            "title": "How many times can I reuse a Chinology™ mask?",
+            "content": "<p>Each Chinology™ mask <strong>is designed for up to 5 uses</strong>, making it a smart and economical choice.<br/></p><p>Instead of single-use products, you can enjoy the benefits of the mask <strong>over multiple sessions.</strong></p><p><br/>Simply follow the care instructions, and <strong>your mask will stay effective every time!</strong></p>"
+          }
+        },
+        "item_zWrfTA": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_wp4dqm",
+        "item_dAUypR",
+        "item_zWrfTA"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -477,6 +530,7 @@
     "hot_spots_LhKjmf",
     "video_G9966V",
     "text_with_icons_hWx4ix",
-    "before_after_image_jaAUQT"
+    "before_after_image_jaAUQT",
+    "faq_YE6C4K"
   ]
 }
