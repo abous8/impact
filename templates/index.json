@@ -165,11 +165,45 @@
         "hot_spot_content_opacity": 90,
         "hot_spot_content_blur_radius": 3
       }
+    },
+    "multi_column_9bX6YH": {
+      "type": "multi-column",
+      "blocks": {
+        "item_MFYATc": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Vous allez ADORER Chinology si :",
+            "heading_tag": "h4",
+            "content": "<p>- Votre double menton <strong>réduit votre confiance en vous.</strong><br/>- Vous en avez assez de paraître <strong>plus âgée ou plus ronde.</strong><br/>- Vous ne voulez pas faire de <strong>chirurgie ni d'injection</strong>.<br/>- Votre double menton persiste malgré <strong>les régimes et le sport.</strong></p><p>Chinology™ utilise la Technologie du Silicone Médicale pour <strong>réduire votre double menton de 98% en 3 semaines.</strong></p><p><br/>ZERO chirurgie. ZERO injection. <strong>Juste des résultats 100% NATURELS !</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_MFYATc"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Le double menton vous fait paraître plus agée & plus ronde...",
+        "content": "<p>Bien plus que vous ne l’êtes.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "media_with_text_FUAFp8",
     "featured_product_Nyiiwn",
-    "hot_spots_QDUMEz"
+    "hot_spots_QDUMEz",
+    "multi_column_9bX6YH"
   ]
 }
