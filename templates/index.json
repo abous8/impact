@@ -101,6 +101,101 @@
         "button_text_color": ""
       }
     },
+    "multi_column_9bX6YH": {
+      "type": "multi-column",
+      "blocks": {
+        "item_MFYATc": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Vous allez ADORER Chinology si :",
+            "heading_tag": "h4",
+            "content": "<p>- Votre double menton <strong>réduit votre confiance en vous.</strong><br/>- Vous en avez assez de paraître <strong>plus âgée ou plus ronde.</strong><br/>- Vous ne voulez pas faire de <strong>chirurgie ni d'injection</strong>.<br/>- Votre double menton persiste malgré <strong>les régimes et le sport.</strong></p><p>Chinology™ utilise la Technologie du Silicone Médicale pour <strong>réduire votre double menton de 98% en 3 semaines.</strong></p><p><br/>ZERO chirurgie. ZERO injection. <strong>Juste des résultats 100% NATURELS !</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_MFYATc"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Le double menton vous fait paraître plus agée & plus ronde...",
+        "content": "<p>Bien plus que vous ne l’êtes.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "impact_text_R8zD3E": {
+      "type": "impact-text",
+      "blocks": {
+        "item_3yYdBA": {
+          "type": "item",
+          "settings": {
+            "title": "96%",
+            "subheading": "Constatent des résultats visibles après la première utilisation",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_pwkbTM": {
+          "type": "item",
+          "settings": {
+            "title": "92%",
+            "subheading": "Rapportent une peau raffermie et liftée sur le long terme",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_ePi8zg": {
+          "type": "item",
+          "settings": {
+            "title": "90%",
+            "subheading": "Remarquent une réduction significative de leur double menton après 21 jours",
+            "content": "",
+            "button_text": "COMMANDER MON MASQUE",
+            "button_url": "shopify://products/offre-masque-chinology-14-90",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_3yYdBA",
+        "item_pwkbTM",
+        "item_ePi8zg"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "diamond",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "#48924e",
+        "button_text_color": ""
+      }
+    },
     "featured_product_Nyiiwn": {
       "type": "featured-product",
       "blocks": {
@@ -248,101 +343,6 @@
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 90,
         "hot_spot_content_blur_radius": 3
-      }
-    },
-    "multi_column_9bX6YH": {
-      "type": "multi-column",
-      "blocks": {
-        "item_MFYATc": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Vous allez ADORER Chinology si :",
-            "heading_tag": "h4",
-            "content": "<p>- Votre double menton <strong>réduit votre confiance en vous.</strong><br/>- Vous en avez assez de paraître <strong>plus âgée ou plus ronde.</strong><br/>- Vous ne voulez pas faire de <strong>chirurgie ni d'injection</strong>.<br/>- Votre double menton persiste malgré <strong>les régimes et le sport.</strong></p><p>Chinology™ utilise la Technologie du Silicone Médicale pour <strong>réduire votre double menton de 98% en 3 semaines.</strong></p><p><br/>ZERO chirurgie. ZERO injection. <strong>Juste des résultats 100% NATURELS !</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_MFYATc"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Le double menton vous fait paraître plus agée & plus ronde...",
-        "content": "<p>Bien plus que vous ne l’êtes.</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "impact_text_R8zD3E": {
-      "type": "impact-text",
-      "blocks": {
-        "item_3yYdBA": {
-          "type": "item",
-          "settings": {
-            "title": "96%",
-            "subheading": "Constatent des résultats visibles après la première utilisation",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_pwkbTM": {
-          "type": "item",
-          "settings": {
-            "title": "92%",
-            "subheading": "Rapportent une peau raffermie et liftée sur le long terme",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_ePi8zg": {
-          "type": "item",
-          "settings": {
-            "title": "90%",
-            "subheading": "Remarquent une réduction significative de leur double menton après 21 jours",
-            "content": "",
-            "button_text": "COMMANDER MON MASQUE",
-            "button_url": "shopify://products/offre-masque-chinology-14-90",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_3yYdBA",
-        "item_pwkbTM",
-        "item_ePi8zg"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "diamond",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "#48924e",
-        "button_text_color": ""
       }
     },
     "video_G9966V": {
