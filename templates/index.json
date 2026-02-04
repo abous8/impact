@@ -479,15 +479,15 @@
         "item_dAUypR": {
           "type": "item",
           "settings": {
-            "title": "How many times can I reuse a Chinology™ mask?",
-            "content": "<p>Each Chinology™ mask <strong>is designed for up to 5 uses</strong>, making it a smart and economical choice.<br/></p><p>Instead of single-use products, you can enjoy the benefits of the mask <strong>over multiple sessions.</strong></p><p><br/>Simply follow the care instructions, and <strong>your mask will stay effective every time!</strong></p>"
+            "title": "Quante volte posso riutilizzare una maschera Chinology™?",
+            "content": "<p>Ogni maschera Chinology™ è progettata per un massimo di 5 utilizzi, rendendola una scelta intelligente ed economica. Invece dei prodotti monouso, potrai godere dei benefici della maschera per più sessioni. Basta seguire le istruzioni per la cura e la tua maschera rimarrà efficace ogni volta!</p>"
           }
         },
         "item_zWrfTA": {
           "type": "item",
           "settings": {
-            "title": "How do Chinology™ masks work?",
-            "content": "<p>Our masks deliver <strong>3x Action in 1 Powerful Mask</strong> to visibly transform your jawline in 3 just weeks.<br/></p><p><strong>1. The Secret Retinol & Collagen Fusion</strong></p><p><br/>Harness the beauty industry’s best-kept secret — a potent blend that <strong>activates skin renewal</strong>, <strong>melts stubborn chin fat</strong>, and restores the smooth, defined jawline you thought was gone forever.</p><p></p><p><strong>2. Instant Tightening & Lifting Effect</strong></p><p><br/>Slip it on and feel the difference. <strong>Our compression design forces your skin into a firmer, sculpted shape</strong>, instantly lifting and reshaping your jawline so you look younger and more defined from the very first use.</p><p></p><p><strong>3. Medical-Grade Silicone Breakthrough</strong><br/><br/>A clinically trusted material that <strong>supercharges circulation</strong>, <strong>unlocks collagen production</strong>, and <strong>seals in lasting firmness</strong> — making your double chin a thing of the past and leaving you with a sleek, confident profile.</p>"
+            "title": "Come funzionano le maschere Chinology™?",
+            "content": "<p>Le nostre maschere offrono una tripla azione in un'unica maschera potente per trasformare visibilmente la linea della mascella in sole 3 settimane.1. Il segreto della fusione di retinolo e collagene Sfrutta il segreto meglio custodito dell'industria della bellezza: una potente miscela che attiva il rinnovamento della pelle, scioglie il grasso ostinato del mento e ripristina la linea della mascella liscia e definita che pensavi fosse scomparsa per sempre. 2. Effetto tensore e lifting istantaneo Indossala e senti la differenza. Il nostro design a compressione modella la pelle rendendola più soda e scolpita, sollevando e rimodellando istantaneamente la linea della mascella per un aspetto più giovane e definito fin dal primo utilizzo. 3. Innovazione nel silicone di grado medico: un materiale clinicamente testato che stimola la circolazione, sblocca la produzione di collagene e garantisce una compattezza duratura, rendendo il doppio mento un ricordo del passato e donandoti un profilo elegante e sicuro.</p>"
           }
         }
       },
@@ -524,8 +524,8 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
+        "subheading": "Contattaci",
+        "title": "Hai qualche domanda?",
         "content": "",
         "text_position": "start",
         "contact_form_size": "large",
