@@ -19,6 +19,7 @@
     "icon_style": "duo",
     "background": "#ffffff",
     "text_color": "#1a1a1a",
+    "warning_color": "#ffb74a",
     "header_background": "#f0f0f0",
     "header_text_color": "#1a1a1a",
     "footer_background": "#ffffff",
