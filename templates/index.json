@@ -345,6 +345,31 @@
         "hot_spot_content_blur_radius": 3
       }
     },
+    "before_after_image_jaAUQT": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Prima/Dopo",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2026-02-04_a_6.27.18_PM.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2026-02-04_a_6.27.30_PM.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Prima",
+        "after_text": "Dopo",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "video_G9966V": {
       "type": "video",
       "blocks": {
@@ -441,31 +466,6 @@
         "text_color": ""
       }
     },
-    "before_after_image_jaAUQT": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Prima/Dopo",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "before_image": "shopify://shop_images/Capture_d_ecran_2026-02-04_a_6.27.18_PM.png",
-        "after_image": "shopify://shop_images/Capture_d_ecran_2026-02-04_a_6.27.30_PM.png",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Prima",
-        "after_text": "Dopo",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "faq_YE6C4K": {
       "type": "faq",
       "blocks": {
@@ -549,9 +549,9 @@
     "featured_product_Nyiiwn",
     "hot_spots_QDUMEz",
     "hot_spots_LhKjmf",
+    "before_after_image_jaAUQT",
     "video_G9966V",
     "text_with_icons_hWx4ix",
-    "before_after_image_jaAUQT",
     "faq_YE6C4K",
     "contact_wBjdyF"
   ]
