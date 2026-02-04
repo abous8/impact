@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Expédition sécurisée",
-            "content": "<p>Chaque commande est soigneusement emballée et suivie — de notre porte à la vôtre.</p>"
+            "title": "Spedizione sicura",
+            "content": "<p>Ogni ordine viene accuratamente imballato e tracciato, dalla nostra porta alla tua.</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Service client — Délai moyen de réponse : 24H",
-            "content": "<p> Du lundi au vendredi : 8h00 – 20h30.</p>"
+            "title": "Servizio clienti — Tempo medio di risposta: 24 ore",
+            "content": "<p> Dal lunedì al venerdì: dalle 8:00 alle 20:30.</p>"
           }
         },
         "payment": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Paiement sécurisé",
-            "content": "<p>Nous ne stockons jamais vos informations de paiement. Chaque transaction est sécurisée et protégée.</p>"
+            "title": "Pagamento sicuro",
+            "content": "<p>Non conserviamo mai i tuoi dati di pagamento. Ogni transazione è sicura e protetta.</p>"
           }
         }
       },
