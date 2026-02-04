@@ -245,7 +245,7 @@
         "inventory_eKNaRT": {
           "type": "inventory",
           "settings": {
-            "low_inventory_threshold": 22
+            "low_inventory_threshold": 0
           }
         },
         "offer_xWy6h8": {
