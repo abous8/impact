@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "SOLDES D'HIVER",
+            "text": "SALDI INVERNALI",
             "url": ""
           }
         },
         "message_bifXkL": {
           "type": "message",
           "settings": {
-            "text": "– 30 % DE RÉDUCTION",
+            "text": "SCONTO DEL 30%",
             "url": ""
           }
         },
