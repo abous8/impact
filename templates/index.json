@@ -53,20 +53,10 @@
             "heading_tag": "h2"
           }
         },
-        "badges_dfa6nN": {
-          "type": "badges",
-          "settings": {}
-        },
         "price_8QmX8q": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
-          }
-        },
-        "rating_cgNHAN": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
           }
         },
         "separator_8jPRRY": {
@@ -100,21 +90,35 @@
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_cqUcQ7": {
-          "type": "pickup_availability",
-          "settings": {}
+        "inventory_eKNaRT": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 22
+          }
+        },
+        "offer_xWy6h8": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "center",
+            "icon_position": "aligned",
+            "icon": "picto-target",
+            "icon_width": 24,
+            "title": "Dernière chance",
+            "content": "<p>Notre meilleure offre de l’année se termine ce soir !</p>",
+            "background": "#ffeaea",
+            "text_color": "#000000"
+          }
         }
       },
       "block_order": [
         "title_TNcVRJ",
-        "badges_dfa6nN",
         "price_8QmX8q",
-        "rating_cgNHAN",
         "separator_8jPRRY",
         "description_bbcXRC",
         "variant_picker_p3HtrV",
         "buy_buttons_eig9Lx",
-        "pickup_availability_cqUcQ7"
+        "inventory_eKNaRT",
+        "offer_xWy6h8"
       ],
       "name": "Featured product",
       "settings": {
