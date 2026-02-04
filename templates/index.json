@@ -289,8 +289,8 @@
             "title": "90%",
             "subheading": "Remarquent une réduction significative de leur double menton après 21 jours",
             "content": "",
-            "button_text": "",
-            "button_url": "",
+            "button_text": "COMMANDER MON MASQUE",
+            "button_url": "shopify://products/offre-masque-chinology-14-90",
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
           }
@@ -307,14 +307,14 @@
         "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
-        "text_divider": "none",
+        "text_divider": "diamond",
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
         "text_color": "",
-        "button_background": "",
+        "button_background": "#48924e",
         "button_text_color": ""
       }
     }
