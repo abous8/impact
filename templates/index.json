@@ -9,255 +9,39 @@
  */
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
+    "media_with_text_FUAFp8": {
+      "type": "media-with-text",
       "blocks": {
-        "slide-1": {
+        "image_9LPbih": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-009-BITTY02-LIL01_BITTY02-AQU01_BITTY02-LMD01_TOB01-WHT01_OB02-LMD01_0161_V1.jpg",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Votre sac incontournable pour des aventures d'été pleines de fun.",
-            "heading_tag": "h3",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_ffCfnV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/OB01_MSH01_I_a167ba09-2b88-4757-97e5-73604ac24f93.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Tendance et Pratique",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide-1",
-        "image_ffCfnV"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
-    },
-    "scrolling_text_BDUeHG": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion d'été",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": "radial-gradient(rgba(255, 183, 74, 1), rgba(255, 204, 75, 1) 100%)"
-      }
-    },
-    "logo_list_DEYBqE": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_XFPPGe": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_xKfMwB": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan__revista__logotipo.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_r3pk7A": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_zVhkfh": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/VOGUE_revista_-_logo.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_XFPPGe",
-        "logo_xKfMwB",
-        "logo_r3pk7A",
-        "logo_zVhkfh"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Vu dans :",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": ""
-      }
-    },
-    "hot_spots_zCtenz": {
-      "type": "hot-spots",
-      "name": "Hot spots",
-      "settings": {
-        "full_width": true,
-        "image": "shopify://shop_images/At_the_Beach_No_more_soggy_stuff_or_sand_disasters_rinse_it_off_in_seconds._Out_with_the_Kids_Snacks_bottles_diapers_toys_it_fits_everything_and_you_ll_find_it_instantly._Quick_Grocer.png",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
-    "impact-text": {
-      "type": "impact-text",
-      "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Les mamans, les voyageurs et les amoureux de la plage ne peuvent plus s’en passer.",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "1664424181b38582d5-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "images_with_text_scrolling_XKq9rh": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_rGFRn9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/telechargement_1.jpg",
+            "image": "shopify://shop_images/042c62a3-1dd0-4641-8abe-f032ebe733f3_1.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
-            "title": "Suzanne G.",
-            "content": "<p>J’adore ce cabas ! Je peux le rincer facilement s’il y a du sable, et il est assez léger pour m’accompagner en road trip, à la plage, en camping, etc.</p>"
-          }
-        },
-        "item_UeGFbh": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/496438763_18355477762151393_4439566685118281789_n.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Margareth J.",
-            "content": "<p>La qualité était bien meilleure que ce à quoi je m’attendais ! Ça vaut largement son prix !</p>"
-          }
-        },
-        "item_RTidzq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/telechargement_2.jpg",
-            "icon": "none",
-            "icon_width": 56,
-            "title": "Julie K.",
-            "content": "<p>C’est un sac façon Crocs trop mignon.. 💯 J’ai pris la taille médium et il est vraiment grand.</p>"
+            "subheading": "",
+            "title": "Éliminez votre double menton en 3 Semaines",
+            "content": "<p>✅ Élimine jusqu’à 98 % du double menton</p><p>✅ Solution N°1 des dermatologues</p><p>✅ Effet « WAOUH » immédiat dès<br/>la première utilisation</p><p>✅ Chaque masque est réutilisable 10x</p><p>✅ +12,000 utilisatrices satisfaites</p>",
+            "link_text": "Commander mon masque",
+            "link_url": "shopify://products/offre-masque-chinology-14-90",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "item_rGFRn9",
-        "item_UeGFbh",
-        "item_RTidzq"
+        "image_9LPbih"
       ],
-      "name": "Images and text scrolling",
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "multiple_images_with_text_pU734f": {
@@ -266,7 +50,6 @@
         "item_bAqH8y": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-005-OB01-RAS01_SAB01-WHT01_CMB01-WHT01_BEVY01-WTM01_0093_V1.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Pique-nique ou parc",
@@ -278,7 +61,6 @@
         "item_UfPect": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Bogg_bag_with_groceries.webp",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Courses rapides",
@@ -290,7 +72,6 @@
         "item_Hijqni": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-009-BITTY02-LIL01_BITTY02-AQU01_BITTY02-LMD01_TOB01-WHT01_OB02-LMD01_0161_V1.jpg",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Sortie avec les enfants",
@@ -316,248 +97,10 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "media_with_text_kX673B": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_cjgxj4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/R_SU25_LIF_046_SHOT-040_OB02_CSB01_BIT02_PLM02_BIT02_FLI01_0028_V1_1c539b93-d35e-4172-90bf-d23a30f54b3d.webp",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "✨Ce n’est pas juste un sac — c’est votre complice de l’été.✨",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_cjgxj4"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "collection_list_MTWfKY": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_AKittE": {
-          "type": "collection",
-          "settings": {
-            "collection": "essentiel-👉-28-x-11-x-21-cm-parfait-pour-les-indispensables",
-            "subheading": "",
-            "title": "",
-            "url": "shopify://collections/essentiel-👉-28-x-11-x-21-cm-parfait-pour-les-indispensables",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_XxVHPC": {
-          "type": "collection",
-          "settings": {
-            "collection": "depart-express-👉-36-x-13-x-30-cm-ideal-pour-une-journee-plage",
-            "subheading": "",
-            "title": "",
-            "url": "shopify://collections/depart-express-👉-36-x-13-x-30-cm-ideal-pour-une-journee-plage",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_DXUf8L": {
-          "type": "collection",
-          "settings": {
-            "collection": "aventure-👉-46-x-24-x-32-cm-pour-tout-emporter",
-            "subheading": "",
-            "title": "",
-            "url": "shopify://collections/aventure-👉-46-x-24-x-32-cm-pour-tout-emporter",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_AKittE",
-        "collection_XxVHPC",
-        "collection_DXUf8L"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Retrouvez l'ensemble de nos tailles ci-dessous :",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "best-sellers-summer-2025",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 4,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Meilleures ventes – Été 2025",
-        "content": "",
-        "link_url": "shopify://collections/best-sellers-summer-2025",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "faq_kL6yKY": {
-      "type": "faq",
-      "blocks": {
-        "item_G3Cbg4": {
-          "type": "item",
-          "settings": {
-            "title": "De quoi est fait ce sac ?",
-            "content": "<p>Nos sacs sont fabriqués en mousse EVA de haute qualité — le même type de matériau utilisé pour les Crocs. Léger, imperméable, flexible et facile à nettoyer.</p>"
-          }
-        },
-        "item_X4H6tQ": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que le sac est imperméable ?",
-            "content": "<p>Oui ! Le sac est entièrement imperméable, ce qui le rend parfait pour les journées à la plage, les sorties à la piscine et les caprices du temps estival.</p>"
-          }
-        },
-        "item_3AkH8b": {
-          "type": "item",
-          "settings": {
-            "title": "Comment nettoyer le sac ?",
-            "content": "<p>Rincez-le simplement à l’eau et essuyez-le avec un chiffon. Pour les taches tenaces, utilisez un peu de savon — pas besoin de lavage en machine.</p>"
-          }
-        },
-        "item_G4RteQ": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle est sa capacité de rangement ?",
-            "content": "<p>Nos sacs sont ultra spacieux ! Ils peuvent facilement contenir des serviettes, des bouteilles d’eau, des snacks, des jouets, de la crème solaire et bien plus encore — parfaits pour les mamans, les voyageurs ou toute personne toujours en mouvement.</p>"
-          }
-        },
-        "item_HQGx7R": {
-          "type": "item",
-          "settings": {
-            "title": "Est-il livré avec des accessoires ?",
-            "content": "<p>Oui ! La plupart de nos sacs incluent une pochette intérieure amovible, ainsi que des charms ou des poignées en option selon le modèle. Consultez chaque fiche produit pour connaître tous les détails.</p>"
-          }
-        },
-        "item_34EX4Y": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que les enfants peuvent le porter en toute sécurité ?",
-            "content": "<p>Absolument. Le matériau est souple et non toxique, et le sac est léger — ce qui en fait une excellente option même pour les plus petits qui veulent porter leurs propres affaires de plage.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_G3Cbg4",
-        "item_X4H6tQ",
-        "item_3AkH8b",
-        "item_G4RteQ",
-        "item_HQGx7R",
-        "item_34EX4Y"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Utilisez ce texte pour partager des informations sur votre produit ou vos politiques de livraison.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
-    "contact_EWq7Vi": {
-      "type": "contact",
-      "name": "Contact form",
-      "settings": {
-        "full_width": true,
-        "subheading": "Contactez-nous",
-        "title": "Avez-vous une question ?",
-        "content": "",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
-    "slideshow",
-    "scrolling_text_BDUeHG",
-    "logo_list_DEYBqE",
-    "hot_spots_zCtenz",
-    "impact-text",
-    "images_with_text_scrolling_XKq9rh",
-    "multiple_images_with_text_pU734f",
-    "media_with_text_kX673B",
-    "collection_list_MTWfKY",
-    "featured-collection",
-    "faq_kL6yKY",
-    "contact_EWq7Vi"
+    "media_with_text_FUAFp8",
+    "multiple_images_with_text_pU734f"
   ]
 }
