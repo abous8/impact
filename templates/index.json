@@ -207,8 +207,8 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_40_02.png",
             "image_rotation_degrees": -2,
-            "subheading": "jj",
-            "title": "",
+            "subheading": "",
+            "title": "Clienti reali Risultati reali",
             "content": "",
             "button_url": "",
             "button_text": ""
@@ -220,7 +220,19 @@
             "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_43_48.png",
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "kk",
+            "title": "Clienti reali Risultati reali",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_iFY9qC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_fevr._2026_17_47_54.png",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Clienti reali Risultati reali",
             "content": "",
             "button_url": "",
             "button_text": ""
@@ -229,7 +241,8 @@
       },
       "block_order": [
         "item_V4nhwK",
-        "item_ffd8mD"
+        "item_ffd8mD",
+        "item_iFY9qC"
       ],
       "name": "Multiple images with text",
       "settings": {
