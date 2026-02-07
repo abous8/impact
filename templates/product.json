@@ -26,12 +26,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -85,7 +79,6 @@
         "vendor",
         "title",
         "badges",
-        "price",
         "rating",
         "payment_terms",
         "separator",
