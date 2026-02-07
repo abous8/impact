@@ -207,16 +207,19 @@
         },
         "price_8QmX8q": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
         },
         "separator_8jPRRY": {
           "type": "separator",
+          "disabled": true,
           "settings": {}
         },
         "description_bbcXRC": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "collapse_content": false
           }
