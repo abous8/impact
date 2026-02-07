@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "SALDI INVERNALI",
+            "text": "Risultati Visibili",
             "url": ""
           }
         },
         "message_bifXkL": {
           "type": "message",
           "settings": {
-            "text": "SCONTO DEL 30%",
+            "text": "Qualità Professionale",
             "url": ""
           }
         },
         "message_YWf8BM": {
           "type": "message",
           "settings": {
-            "text": "CONSEGNA GRATUITA A PARTIRE DA 30 €",
+            "text": "Spedizione Gratuita",
             "url": ""
           }
         }
