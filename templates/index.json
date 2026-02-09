@@ -134,68 +134,6 @@
         "text_color": ""
       }
     },
-    "impact_text_R8zD3E": {
-      "type": "impact-text",
-      "blocks": {
-        "item_3yYdBA": {
-          "type": "item",
-          "settings": {
-            "title": "96%",
-            "subheading": "Notano risultati visibili dopo il primo utilizzo",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_pwkbTM": {
-          "type": "item",
-          "settings": {
-            "title": "92%",
-            "subheading": "Donano una pelle più tonica e liftata a lungo termine",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_ePi8zg": {
-          "type": "item",
-          "settings": {
-            "title": "90%",
-            "subheading": "Notano una significativa riduzione del doppio mento dopo 21 giorni",
-            "content": "",
-            "button_text": "ORDINA LA MIA MASCHERA",
-            "button_url": "shopify://products/offre-masque-chinology-14-90",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_3yYdBA",
-        "item_pwkbTM",
-        "item_ePi8zg"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "diamond",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "#48924e",
-        "button_text_color": ""
-      }
-    },
     "featured_product_Nyiiwn": {
       "type": "featured-product",
       "blocks": {
@@ -300,6 +238,68 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "impact_text_R8zD3E": {
+      "type": "impact-text",
+      "blocks": {
+        "item_3yYdBA": {
+          "type": "item",
+          "settings": {
+            "title": "96%",
+            "subheading": "Notano risultati visibili dopo il primo utilizzo",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_pwkbTM": {
+          "type": "item",
+          "settings": {
+            "title": "92%",
+            "subheading": "Donano una pelle più tonica e liftata a lungo termine",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_ePi8zg": {
+          "type": "item",
+          "settings": {
+            "title": "90%",
+            "subheading": "Notano una significativa riduzione del doppio mento dopo 21 giorni",
+            "content": "",
+            "button_text": "ORDINA LA MIA MASCHERA",
+            "button_url": "shopify://products/offre-masque-chinology-14-90",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_3yYdBA",
+        "item_pwkbTM",
+        "item_ePi8zg"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "diamond",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "#48924e",
+        "button_text_color": ""
       }
     },
     "hot_spots_QDUMEz": {
@@ -556,8 +556,8 @@
     "media_with_text_FUAFp8",
     "multiple_images_with_text_hQjgJJ",
     "multi_column_9bX6YH",
-    "impact_text_R8zD3E",
     "featured_product_Nyiiwn",
+    "impact_text_R8zD3E",
     "hot_spots_QDUMEz",
     "hot_spots_LhKjmf",
     "before_after_image_jaAUQT",
